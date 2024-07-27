@@ -1,7 +1,7 @@
 ## Skills
 
-R | Python | SQL | \
-Data Visualisation | Data Analysis | Report Automation | \
+R | Python | SQL \
+Data Visualisation | Data Analysis | Report Automation \
 Subject matter expertise in NHS data and health policy
 
 ## Experience
@@ -25,15 +25,15 @@ Subject matter expertise in NHS data and health policy
 
 ## Education
 
-**Level 4 Data Analyst Apprenticeship** - Cambridge Spark
-Jul 2023 - present, Grade: TBC
-Projects to date include:
+**Level 4 Data Analyst Apprenticeship** - Cambridge Spark \
+Jul 2023 - present, Grade: TBC \
+Projects include:
 1. Automating the production of a monthly reporting process.
 2. Visualising new data on the dental workforce.
 3. Predictive analysis of prescriptions dispensed in community pharmacy.
 
-**Postgraduate Certificate in Global Health** - Brighton and Sussex Medical School
+**Postgraduate Certificate in Global Health** - Brighton and Sussex Medical School \
 2015 - 2018 (part time), Grade: Distinction
 
-**BA(Hons) Economics and International Development** - University of Sussex
+**BA(Hons) Economics and International Development** - University of Sussex \
 2012 - 2015, Grade: First
