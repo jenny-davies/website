@@ -1,7 +1,4 @@
+theme: dinky
 title: Jenny Davies
 description: ''
 
-nav:
-- Home: index.md
-- About me: about.md
-- CV: cv.md
