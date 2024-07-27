@@ -1,9 +1,7 @@
 ## Skills
 
-R | Python | SQL |
-&nbsp;
-Data Visualisation | Data Analysis | Report Automation |
-&nbsp;
+R | Python | SQL | \
+Data Visualisation | Data Analysis | Report Automation | \
 Subject matter expertise in NHS data and health policy
 
 ## Experience
