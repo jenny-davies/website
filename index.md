@@ -6,5 +6,4 @@ _Data analyst based in London_
 
 ## Skills
 R | Python | SQL
-Data Visualisation | Data Analysis | Report Automation
-Subject matter expertise in NHS data and health policy
+Data Visualisation | Data Analysis | Report Automation | Subject matter expertise in NHS data and health policy
