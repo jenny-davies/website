@@ -1,9 +1,3 @@
-## Skills
-
-R | Python | SQL \
-Data Visualisation | Data Analysis | Report Automation \
-Subject matter expertise in NHS data and health policy
-
 ## Experience
 
 **Analyst**, NHS England, Apr 2022 - present
